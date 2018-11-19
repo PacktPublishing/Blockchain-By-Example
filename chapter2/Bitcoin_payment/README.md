@@ -1,20 +1,19 @@
 # Bitcoin_payment
-
+Code for the first section of the second Chapter.
 
 ## Instructions
  
-=======
 Detailed instructions are available on the book. To run the code please follow the instruction below :
 
-in \root folder :
+in ``\root`` folder run:
 ``npm install``
 
-in \view directory:
+in ``\view`` directory run:
 ``bower install``
 
-then in \root folder : ``npm start``
+then in \root folder run: ``npm start``
 
--http and https ports and IP will be displayed in your terminal
+-http and https ports and IP will be displayed in your terminal.
 
 ## Potential issues: 
 >>>>>>> 780469a147cf6f668806620192046e7c6c2af947
