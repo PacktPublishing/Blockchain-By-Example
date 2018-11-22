@@ -1,0 +1,7 @@
+[main]
+host = https://www.transifex.com
+
+[readercoin.qt-translation-014x]
+file_filter = src/qt/locale/readercoin_<lang>.ts
+source_file = src/qt/locale/readercoin_en.ts
+source_lang = en
