@@ -71,6 +71,7 @@ When not in front of a computer, he enjoys yoga and falling off motorbikes.
 is the founder and CEO of SmartChart. He has 16+ years of extensive, hands-on, design and development experience with blockchain, big data, cloud, UI, and system infrastructure. He has coauthored a number of books, including Seven NoSQL Databases in a Week, Hyperledger Cookbook, and Blockchain Quick Start Guide. He has been a technical reviewer on more than 50 technical books for Packt. He serves as a board adviser for several blockchain start-ups and owns several patents on blockchain. Brian also holds an NJIT computer science masters degree. He lives in New Jersey with his two beautiful daughters, Bridget and Charlotte.
 
 ## Other books by the authors
+* [Seven NoSQL Databases in a Week](https://www.packtpub.com/big-data-and-business-intelligence/seven-nosql-databases-week#utm_source=github&utm_medium=repository&utm_campaign=9781787288867)
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
 
