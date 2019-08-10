@@ -21,7 +21,7 @@ var index = response.data.txs.length - 1;
 console.log(response.data.txs[index])
 var UtxoId =response.data.txs[index].txid;
 var vout = response.data.txs[index].output_no;
-var amount=Number(response.data.txs[index].value*100000000);
+var amount=Number.parseInt(response.data.txs[index].value*100000000);
 var fee = 0.0005*100000000; // 0.0005 BTC
 
 const RawTransaction = new bitcoin.TransactionBuilder(testnet)
