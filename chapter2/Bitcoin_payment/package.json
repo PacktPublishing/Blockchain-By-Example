@@ -11,6 +11,6 @@
     "express": "^4.16.3",
     "request": "^2.88.0",
     "request-promise": "^4.2.2",
-    "underscore": "^1.9.1"
+    "underscore": "^1.12.1"
   }
 }
