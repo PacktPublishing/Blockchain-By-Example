@@ -45,8 +45,8 @@
     "truffle-contract": "^1.1.8",
     "truffle-hdwallet-provider": "0.0.3",
     "url-loader": "0.5.7",
-    "webpack": "1.14.0",
-    "webpack-dev-server": "1.16.2",
+    "webpack": "5.75.0",
+    "webpack-dev-server": "4.11.1",
     "webpack-manifest-plugin": "1.1.0",
     "whatwg-fetch": "1.0.0"
   },
